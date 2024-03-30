@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/(.*)", "destination": "adam website\WEBSITE.html" }
+    ]
+  }
+  
